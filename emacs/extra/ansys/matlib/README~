@@ -1,0 +1,18 @@
+This is the text of ANSYS-Mode's README for the matlib/ directory, it
+is best read in Emacs's Org mode.
+
+Copyright (C) 2006 - 2015  H. Dieter Wilhelm, GPL V3
+
+If not indicated in the file name, the material properties are for
+room temperature.
+
+- creep_curves_PPS_Fortron1140l4_120degC.csv :: example of 
+
+
+# local variables:
+# word-wrap: t
+# show-trailing-whitespace: t
+# indicate-empty-lines: t
+# mode: org
+# end:
+
